@@ -1,0 +1,11 @@
+{
+    "editor.codeActionsOnSave": {
+    
+    },
+    "editor.tokenColorCustomizations": {
+    
+    },
+    "editor.codeLensFontFamily": "Arial",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Arial"
+}
